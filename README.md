@@ -61,22 +61,22 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [**Sign Language Learning Platform**](https://github.com/sahiljana01/SignLanguage-ML) – ML-powered platform for ASL learning  
-🔹 [**Gesture-controlled Fan Controller**](https://github.com/sahiljana01/GestureFanController) – IoT + ML project for smart control  
-🔹 [**Eco-friendly Vehicle System**](https://github.com/sahiljana01/EcoVehicleSystem) – AI-based parking optimization + gamified user engagement  
-🔹 [**AI Chatbot for DOJ**](https://github.com/sahiljana01/DOJ-AI-Chatbot) – Virtual assistant for judiciary services  
-🔹 [**Automated Disease Diagnosis**](https://github.com/sahiljana01/DeepDiseaseDiagnosis) – Deep Learning-based medical solution  
+🔹 [**Sign Language Learning Platform**](https://github.com/sahiljana/SignLanguage-ML) – ML-powered platform for ASL learning  
+🔹 [**Gesture-controlled Fan Controller**](https://github.com/sahiljana/GestureFanController) – IoT + ML project for smart control  
+🔹 [**Eco-friendly Vehicle System**](https://github.com/sahiljana/EcoVehicleSystem) – AI-based parking optimization + gamified user engagement  
+🔹 [**AI Chatbot for DOJ**](https://github.com/sahiljana/DOJ-AI-Chatbot) – Virtual assistant for judiciary services  
+🔹 [**Automated Disease Diagnosis**](https://github.com/sahiljana/DeepDiseaseDiagnosis) – Deep Learning-based medical solution  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sahiljana/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sahiljana@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/sahiljana"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/sahiljana01"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sahil-jana-57533824a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sahiljana298@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/SahilJana2"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/Sahiljana"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>  
 
 ---
 
-⭐️ From [Sahil Jana](https://github.com/sahiljana01)
+⭐️ From [Sahil Jana](https://github.com/sahiljana)
